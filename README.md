@@ -25,3 +25,5 @@ Run "npm install"
 "start" Runs webpack dev server for development ( in watch mode )
 
 "build" Runs webpack in production mode
+
+"test" Runs test with Jest
